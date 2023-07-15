@@ -5,7 +5,7 @@ I am a Front End developer.
 --------------------------
 
 *   🌍  I'm based in Rome, Italy
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='null/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='http://www.paulbnd.co/'>Portfolio</a>
 *   🧠  Currently learning Next.js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
